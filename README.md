@@ -21,6 +21,7 @@
 - [ccplot](http://ccplot.org/) – Command-line application for visualizing data from CloudSat and CALIPSO satellites
 - [cl2nc](https://github.com/peterkuma/cl2nc) – Convert Vaisala CL51 and CL31 ceilometer dat files to NetCDF
 - [mrr2c](https://github.com/peterkuma/mrr2c) – Convert Metek MRR-2 micro rain radar data files to HDF
+- [mpl2nc](https://github.com/peterkuma/mpl2nc) – Convert Sigma Space Micro Pulse Lidar (MPL) data files to NetCDF
 - [COSPv1 (Surface Lidar Fork)](https://github.com/peterkuma/COSPv1) – COSP (CFMIP Observation Simulator Package) experimental surface lidar fork 
 
 ## Theses
