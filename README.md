@@ -13,7 +13,7 @@
 
 ## Posters
 
-- Kuma et al. (2018), [Shipborne and ground-based observations of clouds in the Southern Ocean](https://github.com/peterkuma/research/raw/master/posters/Kuma et al. (2018), Shipborne and ground-based observations of clouds in the Southern Ocean.pdf)
+- Kuma et al. (2018), [Shipborne and ground-based observations of clouds in the Southern Ocean](https://github.com/peterkuma/research/raw/master/posters/Kuma%20et%20al.%20(2018),%20Shipborne%20and%20ground-based%20observations%20of%20clouds%20in%20the%20Southern Ocean.pdf) (POLAR 2018, Davos, Switzerland, 19–23 June 2018)
 - Kuma et al. (2017), [Assessment of Southern Ocean clouds and aerosols in the New Zealand Earth System Model using shipborne and ground-based observations](https://github.com/peterkuma/research/raw/master/posters/Kuma%20et%20al.%20(2017)%2C%20Assessment%20of%20Southern%20Ocean%20clouds%20and%20aerosols%20in%20the%20New%20Zealand%20Earth%20System%20Model%20using%20shipborne%20and%20ground-based%20observations.pdf) (Deep South Challenge Symposium, Wellington, New Zealand, 4–6 September 2017)
 - Kuma et al. (2017), [Shipborne and ground-based observations of clouds in the Subantarctic the the Southern Ocean](https://github.com/peterkuma/research/raw/master/posters/Kuma%20et%20al.%20(2017)%2C%20Shipborne%20and%20ground-based%20observations%20of%20clouds%20in%20the%20Subantarctic%20the%20the%20Southern%20Ocean.pdf) (New Zealand Antarctic Science Conference, Dunedin, New Zealand, 26–28 June 2017)
 
@@ -29,3 +29,4 @@
 
 - Kuma (2015), [Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study](https://github.com/peterkuma/research/raw/master/theses/Kuma%20(2015)%2C%20Broadband%20approach%20as%20a%20framework%20for%20implementation%20of%20radiative%20transfer%20scheme%20with%20selective%20intermittency:%20Cost%20versus%20accuracy%20study.pdf) (Comenius University, Bratislava, Slovakia)
 - Kuma (2010), [Visualising Data from CloudSat and CALIPSO Satellites](https://github.com/peterkuma/research/raw/master/theses/Kuma%20(2010)%2C%20Visualising%20Data%20from%20CloudSat%20and%20CALIPSO%20Satellites.pdf) (Comenius University, Bratislava, Slovakia)
+ (
