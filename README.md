@@ -34,7 +34,7 @@ E-mail: [peter.kuma@pg.canterbury.ac.nz](mailto:peter.kuma@pg.canterbury.ac.nz)
 - Kuma et al. (2017), [Assessment of Southern Ocean clouds and aerosols in the New Zealand Earth System Model using shipborne and ground-based observations](https://github.com/peterkuma/research/raw/master/posters/Kuma%20et%20al.%20(2017)%2C%20Assessment%20of%20Southern%20Ocean%20clouds%20and%20aerosols%20in%20the%20New%20Zealand%20Earth%20System%20Model%20using%20shipborne%20and%20ground-based%20observations.pdf) (Deep South Challenge Symposium, Wellington, New Zealand, 4–6 September 2017)
 - Kuma et al. (2017), [Shipborne and ground-based observations of clouds in the Subantarctic the the Southern Ocean](https://github.com/peterkuma/research/raw/master/posters/Kuma%20et%20al.%20(2017)%2C%20Shipborne%20and%20ground-based%20observations%20of%20clouds%20in%20the%20Subantarctic%20the%20the%20Southern%20Ocean.pdf) (New Zealand Antarctic Science Conference, Dunedin, New Zealand, 26–28 June 2017)
 
-## Software
+## Open Source Software
 
 - [ccplot](http://ccplot.org/) – Command-line application for visualizing data from CloudSat and CALIPSO satellites
 - [cl2nc](https://github.com/peterkuma/cl2nc) – Convert Vaisala CL51 and CL31 ceilometer dat files to NetCDF
