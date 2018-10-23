@@ -4,11 +4,14 @@
 
 I am an atmospheric physics PhD student at the University of Canterbury
 in Christchurch, New Zealand, currently focusing on research of climate in
-the Southern Ocean.
+the Southern Ocean with the aim of improving accurracy of climate models in
+this region. My research is funded  by
+the [University of Canterbury](https://www.canterbury.ac.nz/) and
+[New Zealand Deep South Challenge](https://www.deepsouthchallenge.co.nz/).
 
 ### Contact
 
-Environmental Research Group\
+[Environmental Research Group](https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/research/env-research-group/mcdonald-group/)\
 School of Physical and Chemical Sciences\
 University of Canterbury\
 Private Bag 4800, Christchurch, New Zealand\
