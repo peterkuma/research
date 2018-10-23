@@ -44,5 +44,10 @@ E-mail: [peter.kuma@pg.canterbury.ac.nz](mailto:peter.kuma@pg.canterbury.ac.nz)
 
 ## Theses
 
+### Master's Thesis
+
 - Kuma (2015), [Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study](https://github.com/peterkuma/research/raw/master/theses/Kuma%20(2015)%2C%20Broadband%20approach%20as%20a%20framework%20for%20implementation%20of%20radiative%20transfer%20scheme%20with%20selective%20intermittency:%20Cost%20versus%20accuracy%20study.pdf) (Comenius University, Bratislava, Slovakia)
+
+### Bachelor's Thesis
+
 - Kuma (2010), [Visualising Data from CloudSat and CALIPSO Satellites](https://github.com/peterkuma/research/raw/master/theses/Kuma%20(2010)%2C%20Visualising%20Data%20from%20CloudSat%20and%20CALIPSO%20Satellites.pdf) (Comenius University, Bratislava, Slovakia)
