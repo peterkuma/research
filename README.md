@@ -15,7 +15,7 @@ the [University of Canterbury](https://www.canterbury.ac.nz/) and
 School of Physical and Chemical Sciences\
 University of Canterbury\
 Private Bag 4800, Christchurch, New Zealand\
-E-mail: [peter.kuma@pg.canterbury.ac.nz](peter.kuma@pg.canterbury.ac.nz)
+E-mail: [peter.kuma@pg.canterbury.ac.nz](mailto:peter.kuma@pg.canterbury.ac.nz)
 
 ## Presentations
 
