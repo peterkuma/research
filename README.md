@@ -1,6 +1,6 @@
-# Research Summary
+# Peter Kuma: Research Summary
 
-## About
+## About Me
 
 I am an atmospheric physics PhD student at the University of Canterbury
 in Christchurch, New Zealand, currently focusing on research of climate in
@@ -8,10 +8,10 @@ the Southern Ocean.
 
 ### Contact
 
-Environmental Research Group
-School of Physical and Chemical Sciences
-University of Canterbury
-Private Bag 4800, Christchurch, New Zealand
+Environmental Research Group\
+School of Physical and Chemical Sciences\
+University of Canterbury\
+Private Bag 4800, Christchurch, New Zealand\
 E-mail: [peter.kuma@pg.canterbury.ac.nz](peter.kuma@pg.canterbury.ac.nz)
 
 ## Presentations
