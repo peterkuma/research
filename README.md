@@ -1,4 +1,18 @@
-# Research
+# Research Summary
+
+## About
+
+I am an atmospheric physics PhD student at the University of Canterbury
+in Christchurch, New Zealand, currently focusing on research of climate in
+the Southern Ocean.
+
+### Contact
+
+Environmental Research Group
+School of Physical and Chemical Sciences
+University of Canterbury
+Private Bag 4800, Christchurch, New Zealand
+E-mail: [peter.kuma@pg.canterbury.ac.nz](peter.kuma@pg.canterbury.ac.nz)
 
 ## Presentations
 
@@ -23,10 +37,9 @@
 - [cl2nc](https://github.com/peterkuma/cl2nc) – Convert Vaisala CL51 and CL31 ceilometer dat files to NetCDF
 - [mrr2c](https://github.com/peterkuma/mrr2c) – Convert Metek MRR-2 micro rain radar data files to HDF
 - [mpl2nc](https://github.com/peterkuma/mpl2nc) – Convert Sigma Space Micro Pulse Lidar (MPL) data files to NetCDF
-- [COSPv1 (Surface Lidar Fork)](https://github.com/peterkuma/COSPv1) – COSP (CFMIP Observation Simulator Package) experimental surface lidar fork 
+- [COSPv1 (Surface Lidar Fork)](https://github.com/peterkuma/COSPv1) – COSP (CFMIP Observation Simulator Package) experimental surface lidar fork
 
 ## Theses
 
 - Kuma (2015), [Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study](https://github.com/peterkuma/research/raw/master/theses/Kuma%20(2015)%2C%20Broadband%20approach%20as%20a%20framework%20for%20implementation%20of%20radiative%20transfer%20scheme%20with%20selective%20intermittency:%20Cost%20versus%20accuracy%20study.pdf) (Comenius University, Bratislava, Slovakia)
 - Kuma (2010), [Visualising Data from CloudSat and CALIPSO Satellites](https://github.com/peterkuma/research/raw/master/theses/Kuma%20(2010)%2C%20Visualising%20Data%20from%20CloudSat%20and%20CALIPSO%20Satellites.pdf) (Comenius University, Bratislava, Slovakia)
- (
