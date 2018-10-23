@@ -4,7 +4,7 @@
 
 I am an atmospheric physics PhD student at the University of Canterbury
 in Christchurch, New Zealand, currently focusing on research of climate in
-the Southern Ocean with the aim of improving accurracy of climate models in
+the Southern Ocean with the aim of improving accuracy of climate models in
 this region. My research is funded  by
 the [University of Canterbury](https://www.canterbury.ac.nz/) and
 [New Zealand Deep South Challenge](https://www.deepsouthchallenge.co.nz/).
