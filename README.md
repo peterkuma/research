@@ -9,6 +9,9 @@ this region. My research is funded  by
 the [University of Canterbury](https://www.canterbury.ac.nz/) and
 [New Zealand Deep South Challenge](https://www.deepsouthchallenge.co.nz/).
 
+**PhD Supervisor:** Associate Prof. Adrian McDonald, University of Canterbury\
+**PhD Co-supervisor:** Dr Olaf Morgenstern, NIWA
+
 ### Contact
 
 [Environmental Research Group](https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/research/env-research-group/mcdonald-group/)\
@@ -52,6 +55,6 @@ Supervisor: Ján Mašek, [Czech Hydrometeorological Institute](http://portal.chm
 
 ### Bachelor's Thesis
 
-Supervisor: Ivan Bašták Ďurán, [Comenius University](https://uniba.sk/en)
+Supervisor: Ivan Bašták-Ďurán, [Comenius University](https://uniba.sk/en)
 
 - Kuma (2010), [Visualising Data from CloudSat and CALIPSO Satellites](https://github.com/peterkuma/research/raw/master/theses/Kuma%20(2010)%2C%20Visualising%20Data%20from%20CloudSat%20and%20CALIPSO%20Satellites.pdf) (Comenius University, Bratislava, Slovakia)
