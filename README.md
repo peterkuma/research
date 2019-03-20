@@ -21,12 +21,6 @@ University of Canterbury\
 Private Bag 4800, Christchurch, New Zealand\
 E-mail: [peter.kuma@pg.canterbury.ac.nz](mailto:peter.kuma@pg.canterbury.ac.nz)
 
-## Presentations
-
-- Kuma et al. (2018), [Evaluation of HadGEM3 Southern Ocean cloud using observations and reanalyses](https://github.com/peterkuma/research/raw/master/presentations/Kuma%20et%20al.%20(2018),%20Evaluation%20of%20HadGEM3%20Southern%20Ocean%20cloud%20using%20observations%20and%20reanalyses.pdf) (NZ Hydrological Society & Meteorological Society of NZ Joint Conference, Christchurch, New Zealand, 4–7 December 2018)
-- Kuma (2018), [Doctoral Confirmation Presentation: Assessment of Southern Ocean Clouds and Aerosol in General Circulation Models](https://github.com/peterkuma/research/raw/master/presentations/Kuma%20(2018)%2C%20Doctoral%20Confirmation%20Presentation:%20Assessment%20of%20Southern%20Ocean%20Clouds%20and%20Aerosol%20in%20General%20Circulation%20Models.pdf) (University of Canterbury, Christchurch, New Zealand, 9 April 2018)
-- Kuma et al. (2017), [Assessment of Southern Ocean clouds and aerosols in the New Zealand Earth System Model using shipborne and ground-based observations](https://github.com/peterkuma/research/raw/master/presentations/Kuma%20et%20al.%20(2017)%2C%20Assessment%20of%20Southern%20Ocean%20clouds%20and%20aerosols%20in%20the%20New%20Zealand%20Earth%20System%20Model%20using%20shipborne%20and%20ground-based%20observations.pdf) (Meteorological Society of New Zealand Annual Conference, Dunedin, New Zealand, 13–15 November 2017)
-
 ## Publications
 
 - Hartery et al. (2019), Constraining parameterizations of sea spray aerosol flux in the Southern Ocean (submitted to Atmospheric Chemistry and Physics)
@@ -35,6 +29,12 @@ E-mail: [peter.kuma@pg.canterbury.ac.nz](mailto:peter.kuma@pg.canterbury.ac.nz)
 - Jolly et al. (2017), [An analysis of the cloud environment over the Ross Sea and Ross Ice Shelf using CloudSat/CALIPSO satellite observations: The importance of synoptic forcing](https://www.atmos-chem-phys-discuss.net/acp-2017-547/) (Atmospheric Chemistry and Physics)
 - Geleyn et al. (2017), [Single interval longwave radiation scheme based on the net exchanged rate decomposition with bracketing](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3006) (Quarterly Journal of the Royal Meteorological Society)
 - Mašek et al. (2017), [Single interval shortwave radiation scheme with parameterized optical saturation and spectral overlaps](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.2653) (Quarterly Journal of the Royal Meteorological Society)
+
+## Presentations
+
+- Kuma et al. (2018), [Evaluation of HadGEM3 Southern Ocean cloud using observations and reanalyses](https://github.com/peterkuma/research/raw/master/presentations/Kuma%20et%20al.%20(2018),%20Evaluation%20of%20HadGEM3%20Southern%20Ocean%20cloud%20using%20observations%20and%20reanalyses.pdf) (NZ Hydrological Society & Meteorological Society of NZ Joint Conference, Christchurch, New Zealand, 4–7 December 2018)
+- Kuma (2018), [Doctoral Confirmation Presentation: Assessment of Southern Ocean Clouds and Aerosol in General Circulation Models](https://github.com/peterkuma/research/raw/master/presentations/Kuma%20(2018)%2C%20Doctoral%20Confirmation%20Presentation:%20Assessment%20of%20Southern%20Ocean%20Clouds%20and%20Aerosol%20in%20General%20Circulation%20Models.pdf) (University of Canterbury, Christchurch, New Zealand, 9 April 2018)
+- Kuma et al. (2017), [Assessment of Southern Ocean clouds and aerosols in the New Zealand Earth System Model using shipborne and ground-based observations](https://github.com/peterkuma/research/raw/master/presentations/Kuma%20et%20al.%20(2017)%2C%20Assessment%20of%20Southern%20Ocean%20clouds%20and%20aerosols%20in%20the%20New%20Zealand%20Earth%20System%20Model%20using%20shipborne%20and%20ground-based%20observations.pdf) (Meteorological Society of New Zealand Annual Conference, Dunedin, New Zealand, 13–15 November 2017)
 
 ## Posters
 
