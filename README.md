@@ -10,8 +10,8 @@ this region. My research is funded by
 the University of Canterbury and the
 [New Zealand Deep South National Science Challenge](https://www.deepsouthchallenge.co.nz/).
 
-PhD Supervisor: Prof. Adrian McDonald, University of Canterbury\
-PhD Co-supervisor: Dr. Olaf Morgenstern, NIWA
+**PhD Supervisor:** Prof. Adrian McDonald, University of Canterbury\
+**PhD Co-supervisor:** Dr. Olaf Morgenstern, NIWA
 
 ### Contact
 
