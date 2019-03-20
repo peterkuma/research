@@ -2,15 +2,16 @@
 
 ## About Me
 
-I am an atmospheric physics PhD student at the University of Canterbury
+I am an atmospheric physics PhD student at the
+[School of Physical and Chemical Sciences](https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/), University of Canterbury
 in Christchurch, New Zealand, currently focusing on research of climate in
 the Southern Ocean with the aim of improving accuracy of climate models in
-this region. My research is funded  by
-the [University of Canterbury](https://www.canterbury.ac.nz/) and
-[New Zealand Deep South Challenge](https://www.deepsouthchallenge.co.nz/).
+this region. My research is funded by
+the University of Canterbury and the
+[New Zealand Deep South National Science Challenge](https://www.deepsouthchallenge.co.nz/).
 
-PhD Supervisor: Associate Prof. Adrian McDonald, University of Canterbury\
-PhD Co-supervisor: Dr Olaf Morgenstern, NIWA
+PhD Supervisor: Prof. Adrian McDonald, University of Canterbury\
+PhD Co-supervisor: Dr. Olaf Morgenstern, NIWA
 
 ### Contact
 
@@ -26,8 +27,9 @@ E-mail: [peter.kuma@pg.canterbury.ac.nz](mailto:peter.kuma@pg.canterbury.ac.nz)
 - Kuma (2018), [Doctoral Confirmation Presentation: Assessment of Southern Ocean Clouds and Aerosol in General Circulation Models](https://github.com/peterkuma/research/raw/master/presentations/Kuma%20(2018)%2C%20Doctoral%20Confirmation%20Presentation:%20Assessment%20of%20Southern%20Ocean%20Clouds%20and%20Aerosol%20in%20General%20Circulation%20Models.pdf) (University of Canterbury, Christchurch, New Zealand, 9 April 2018)
 - Kuma et al. (2017), [Assessment of Southern Ocean clouds and aerosols in the New Zealand Earth System Model using shipborne and ground-based observations](https://github.com/peterkuma/research/raw/master/presentations/Kuma%20et%20al.%20(2017)%2C%20Assessment%20of%20Southern%20Ocean%20clouds%20and%20aerosols%20in%20the%20New%20Zealand%20Earth%20System%20Model%20using%20shipborne%20and%20ground-based%20observations.pdf) (Meteorological Society of New Zealand Annual Conference, Dunedin, New Zealand, 13–15 November 2017)
 
-## Papers
+## Publications
 
+- Kuma et al. (2019), Evaluation of Southern Ocean cloud in the HadGEM3 general circulation model and MERRA-2 reanalysis using ship-based observations (submitted to Atmospheric Chemistry and Physics)
 - Jolly et al. (2017), [An analysis of the cloud environment over the Ross Sea and Ross Ice Shelf using CloudSat/CALIPSO satellite observations: The importance of synoptic forcing](https://www.atmos-chem-phys-discuss.net/acp-2017-547/) (Atmospheric Chemistry and Physics)
 - Geleyn et al. (2017), [Single interval longwave radiation scheme based on the net exchanged rate decomposition with bracketing](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3006) (Quarterly Journal of the Royal Meteorological Society)
 - Mašek et al. (2017), [Single interval shortwave radiation scheme with parameterized optical saturation and spectral overlaps](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.2653) (Quarterly Journal of the Royal Meteorological Society)
