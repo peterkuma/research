@@ -24,7 +24,7 @@ E-mail: [peter.kuma@pg.canterbury.ac.nz](mailto:peter.kuma@pg.canterbury.ac.nz)
 ## Publications
 
 - Hartery et al. (2019), Constraining parameterizations of sea spray aerosol flux in the Southern Ocean (submitted to Atmospheric Chemistry and Physics)
-- Kuma et al. (2019), Evaluation of Southern Ocean cloud in the HadGEM3 general circulation model and MERRA-2 reanalysis using ship-based observations (submitted to Atmospheric Chemistry and Physics)
+- Kuma et al. (2019), [Evaluation of Southern Ocean cloud in the HadGEM3 general circulation model and MERRA-2 reanalysis using ship-based observations](https://www.atmos-chem-phys-discuss.net/acp-2019-201/) (Atmospheric Chemistry and Physics Discussion)
 - Klekociuk et al. (2019), [The state of the atmosphere in the 2016 southern Kerguelen Axis campaign region](https://www.sciencedirect.com/science/article/pii/S0967064518301395) (Deep-Sea Research Part II: Topical Studies in Oceanography)
 - Jolly et al. (2017), [An analysis of the cloud environment over the Ross Sea and Ross Ice Shelf using CloudSat/CALIPSO satellite observations: The importance of synoptic forcing](https://www.atmos-chem-phys-discuss.net/acp-2017-547/) (Atmospheric Chemistry and Physics)
 - Geleyn et al. (2017), [Single interval longwave radiation scheme based on the net exchanged rate decomposition with bracketing](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/qj.3006) (Quarterly Journal of the Royal Meteorological Society)
