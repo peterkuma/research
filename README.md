@@ -1,26 +1,5 @@
 # Peter Kuma: Research Summary
 
-## About Me
-
-I am an atmospheric physics PhD student at the
-[School of Physical and Chemical Sciences](https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/), University of Canterbury
-in Christchurch, New Zealand, currently focusing on research of climate in
-the Southern Ocean with the aim of improving accuracy of climate models in
-this region. My research is funded by
-the University of Canterbury and the
-[New Zealand Deep South National Science Challenge](https://www.deepsouthchallenge.co.nz/).
-
-**PhD Supervisor:** Prof. Adrian McDonald, University of Canterbury\
-**PhD Co-supervisor:** Dr. Olaf Morgenstern, NIWA
-
-### Contact
-
-[Environmental Research Group](https://www.canterbury.ac.nz/science/schools-and-departments/phys-chem/research/env-research-group/mcdonald-group/)\
-School of Physical and Chemical Sciences\
-University of Canterbury\
-Private Bag 4800, Christchurch, New Zealand\
-E-mail: [peter.kuma@pg.canterbury.ac.nz](mailto:peter.kuma@pg.canterbury.ac.nz)
-
 ## Publications
 
 - Hartery et al. (2019), Constraining parameterizations of sea spray aerosol flux in the Southern Ocean (submitted to Atmospheric Chemistry and Physics)
